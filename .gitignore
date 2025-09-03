@@ -1,0 +1,13 @@
+# PlatformIO
+.pio/
+.pioenvs/
+libdeps/
+.vscode/
+*.pio
+.build/
+.env
+# OS
+Thumbs.db
+Desktop.ini
+# Secrets
+include/secrets.h
